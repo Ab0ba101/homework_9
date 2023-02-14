@@ -1,0 +1,12 @@
+div{
+    height: 160px;
+    width: 450px;
+    box-shadow: 0px 22px 21px 0px rgba(10,37,145,1),0px 33px 26px 0px rgba(173,23,12,1),1px 42px 15px 0px rgba(219,219,55,1),1px 60px 20px 0px rgba(98,227,66,1),1px 93px 52px 33px rgba(84,207,245,0.66);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
